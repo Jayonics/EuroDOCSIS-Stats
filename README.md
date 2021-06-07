@@ -1,4 +1,4 @@
-# EuroDOCSIS3.0_Downstream_stats_checker
+# EuroDOCSIS3.0-Stats
 
 This is a spreadsheet for checking the stats of your downstream channels on a DOCSIS 3.0 modem. This is exclusively for EuroDOCSIS (Such as the UK and European countries) and not for the international standard of DOCSIS
 which has different values all together. Once you put you stats into the chart it will color highlight them, showing if any are bad by a red color.
